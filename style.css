@@ -1,0 +1,10 @@
+body{
+    background: url(snake.jpg);
+    background-size: cover;
+}
+
+canvas{
+    display: flex;
+    margin: auto;
+    transform: translateY(20%);
+}
